@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Chained to You",
+  "base_artist": "RUBIA Leopard",
+  "createdAt": "2025-12-02T15:24:36.376727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chained To You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/01_Chained_To_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chained To You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/02_Chained_To_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chained to You (Original Mix)",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/03_Chained_to_You_(Original_Mix)_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chained to You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/04_Chained_to_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chained to You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/05_Chained_to_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chained to you",
+      "artist": "Savage Garden",
+      "has_synced": false,
+      "path": "select/06_Chained_to_you_Savage_Garden.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chained to you (live)",
+      "artist": "Savage Garden",
+      "has_synced": false,
+      "path": "select/07_Chained_to_you_(live)_Savage_Garden.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "06 Chained To You",
+      "artist": "Savage Garden",
+      "has_synced": true,
+      "path": "select/08_06_Chained_To_You_Savage_Garden.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chained to You",
+      "artist": "RUBIA Leopard",
+      "has_synced": false,
+      "path": "select/pl_01_Chained_to_You_RUBIA_Leopard.txt"
+    }
+  ]
+}
